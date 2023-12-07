@@ -1,1 +1,1 @@
-# cs74-project-p2
+# Binary Classification of Amazon Product Ratings
