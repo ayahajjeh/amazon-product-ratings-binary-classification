@@ -7,4 +7,4 @@ For the second part, I use sentiment analysis only to predict amazon review scor
 
 For the third part, I include the outputs of the sentiment model as a part of my best performing model from part 1 and re-run the binary classifier. By including both text features and sentiment features, I outperform my best model from part 1.
 
-I evaluated all the models throughout this project using confusion matrix, ROC AUC score, accuracy score, and F1 score. Please look at the project write up, the pdf file uploaded in this repository, for a deep dive into this project description, processing, analysis, and results.
+I compared all the different models throughout this project using evaluation metrics such as confusion matrix, ROC AUC score, accuracy score, and macro F1 score. Please look at the project write up, the pdf file uploaded in this repository, for a deep dive into this project description, processing, analysis, and results.
