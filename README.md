@@ -3,7 +3,7 @@ In this project, I used product reviews from Amazon to perform binary classifica
 
 For the first part, I built three binary classification models based on review text only. The three models were Logistic Regression, Support Vector Classifier, and Perceptron. I used functions in scikit-learn, numpy, and pandas.
 
-For the second part,
+For the second part, I use sentiment analysis only to predict amazon review scores. Sentiment analysis is the task of identifying if a text is generally positive, negative, or neutral. The task of binary amazon review classification is inherently related to the task of sentiment analysis. For example, it seems intuitive that a text with positive sentiment will have a high amazon review, right? For this part of the project, I explored the relationship between sentiment analysis and amazon review scores to try and identify how well sentiment scores can predict amazon review scores. In the attached write up, I report all the same metrics as in part 1 and include analysis as to why sentiment is or is not enough to perform amazon review predictions.
 
 For the third part,
 
