@@ -1,5 +1,5 @@
 # Binary Classification of Amazon Product Ratings
-`This was one of my projects for CS74 Machine Learning class at Dartmouth College.`
+`This was one of my projects for the CS74 Machine Learning class at Dartmouth College.`
 
 In this project, @bilanaden1 and I used product reviews from Amazon to perform binary classification, where the goal is to identify if the review text represents a high-star review or a low-star review. For the purposes of this project, I define a high-star review as one with a score > 3 (i.e. a 4 or 5 star review), with low-star reviews being <= 3 (i.e. 1,2,3 star reviews).
 
